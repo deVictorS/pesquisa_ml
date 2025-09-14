@@ -1,0 +1,10 @@
+# Ignorar datasets grandes
+raw_data/
+
+# Cache e temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
