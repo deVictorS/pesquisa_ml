@@ -1,32 +1,35 @@
 <div align="center">
-🚨 Malicious Traffic Detection System
-Sistema Inteligente para Detecção de Tráfego Malicioso com Machine Learning
+Sistema de Detecção de Tráfego Malicioso
+Projeto em Machine Learning — Cibersegurança e Inteligência Artificial
+
+Desenvolvido com foco em robustez, adaptação contínua e segurança de redes
+
 </div>
-📌 Sobre o Projeto
+Sobre o Projeto
 
-Este projeto implementa um sistema baseado em Machine Learning para identificação automática de tráfego malicioso em redes. A solução foi desenvolvida para operar em ambientes dinâmicos, utilizando aprendizado contínuo e treinamento adversarial para aumentar a robustez do modelo frente a novos padrões de ataque e tentativas de evasão.
+Este projeto implementa um sistema inteligente para detecção automática de tráfego malicioso em redes, utilizando técnicas avançadas de Machine Learning. A solução foi projetada para atuar em ambientes dinâmicos, aplicando aprendizado contínuo e treinamento adversarial para aumentar a capacidade de generalização e resistência contra novos padrões de ataque.
 
-O trabalho resultou na publicação de um artigo científico, consolidando os experimentos, validações e análises de desempenho.
+O trabalho resultou na produção de um artigo científico, consolidando os experimentos, validações e análises de desempenho do modelo.
 
-⚙️ Funcionalidades
+Principais Funcionalidades
 
-✅ Detecção automática de tráfego malicioso
+Detecção automatizada de tráfego malicioso
 
-🔄 Aprendizado contínuo (online/incremental learning)
+Aprendizado contínuo para adaptação a novas ameaças
 
-🛡️ Treinamento adversarial para maior robustez
+Treinamento adversarial para maior robustez contra ataques evasivos
 
-📊 Avaliação com métricas de desempenho
+Pipeline modular e escalável
 
-🧩 Arquitetura modular e escalável
+Avaliação com métricas de desempenho
 
-🧠 Metodologia
+Metodologia do Sistema
 
 O pipeline do sistema segue as seguintes etapas:
 
 Pré-processamento e normalização dos dados
 
-Extração de características de tráfego
+Extração de características do tráfego de rede
 
 Treinamento incremental do modelo
 
@@ -34,47 +37,47 @@ Geração de amostras adversariais
 
 Validação e análise de desempenho
 
-📈 Resultados
+Resultados Experimentais
 
 Os experimentos demonstraram:
 
 Melhoria na taxa de detecção
 
-Maior generalização frente a padrões desconhecidos
+Maior capacidade de generalização em padrões desconhecidos
 
-Aumento da estabilidade do modelo contra ataques evasivos
+Aumento da estabilidade do modelo frente a tentativas de evasão
 
-Os resultados completos estão documentados no artigo científico associado ao projeto.
+Os detalhes completos estão documentados no artigo científico associado ao projeto.
 
-🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 Python
 
 Scikit-learn / TensorFlow / PyTorch (ajuste conforme seu stack)
 
-Pandas & NumPy
+Pandas e NumPy
 
 Matplotlib / Seaborn
 
 Jupyter Notebook
 
-🔐 Aplicações
+Aplicações
 
 Sistemas de Detecção de Intrusão (IDS)
 
-Monitoramento de Segurança de Redes
+Monitoramento de Segurança em Redes Corporativas
 
-Ambientes Corporativos
+Plataformas de Cibersegurança
 
-Pesquisa Acadêmica em Cibersegurança
+Pesquisa Acadêmica em IA e Segurança da Informação
 
-📄 Publicação Científica
+Publicação Científica
 
 Este projeto originou um artigo científico contendo:
 
 Metodologia detalhada
 
-Resultados experimentais
+Avaliação experimental
 
 Validação estatística
 
