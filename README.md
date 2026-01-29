@@ -1,53 +1,81 @@
-Detecção de Tráfego Malicioso com Machine Learning
+<div align="center">
+🚨 Malicious Traffic Detection System
+Sistema Inteligente para Detecção de Tráfego Malicioso com Machine Learning
+</div>
+📌 Sobre o Projeto
 
-Este projeto apresenta um sistema inteligente para detecção de tráfego malicioso em redes, desenvolvido com técnicas avançadas de Machine Learning. O modelo foi projetado para operar em ambientes dinâmicos, incorporando aprendizado contínuo e treinamento adversarial para aumentar sua capacidade de adaptação e robustez frente a novos padrões de ataque.
+Este projeto implementa um sistema baseado em Machine Learning para identificação automática de tráfego malicioso em redes. A solução foi desenvolvida para operar em ambientes dinâmicos, utilizando aprendizado contínuo e treinamento adversarial para aumentar a robustez do modelo frente a novos padrões de ataque e tentativas de evasão.
 
-Principais Características
+O trabalho resultou na publicação de um artigo científico, consolidando os experimentos, validações e análises de desempenho.
 
-Detecção automatizada de comportamentos maliciosos em tráfego de rede
+⚙️ Funcionalidades
 
-Aprendizado contínuo para adaptação a novas ameaças
+✅ Detecção automática de tráfego malicioso
 
-Treinamento adversarial para aumentar resistência a ataques evasivos
+🔄 Aprendizado contínuo (online/incremental learning)
 
-Pipeline completo de pré-processamento, treinamento, validação e avaliação
+🛡️ Treinamento adversarial para maior robustez
 
-Arquitetura modular para fácil extensão e experimentação
+📊 Avaliação com métricas de desempenho
 
-Metodologia
+🧩 Arquitetura modular e escalável
 
-O sistema utiliza técnicas de aprendizado supervisionado combinadas com estratégias de robustez baseadas em exemplos adversariais. O fluxo experimental inclui:
+🧠 Metodologia
 
-Extração e normalização de características de tráfego
+O pipeline do sistema segue as seguintes etapas:
+
+Pré-processamento e normalização dos dados
+
+Extração de características de tráfego
 
 Treinamento incremental do modelo
 
 Geração de amostras adversariais
 
-Avaliação com métricas de desempenho e generalização
+Validação e análise de desempenho
 
-Resultados
+📈 Resultados
 
-O projeto resultou na produção de um artigo científico, no qual são apresentados os experimentos realizados, a validação do modelo e a análise comparativa de desempenho. Os resultados demonstram melhoria significativa na capacidade de detecção e na estabilidade do modelo frente a padrões desconhecidos.
+Os experimentos demonstraram:
 
-Tecnologias Utilizadas
+Melhoria na taxa de detecção
+
+Maior generalização frente a padrões desconhecidos
+
+Aumento da estabilidade do modelo contra ataques evasivos
+
+Os resultados completos estão documentados no artigo científico associado ao projeto.
+
+🛠️ Tecnologias Utilizadas
 
 Python
 
-Scikit-learn / TensorFlow / PyTorch (adaptar conforme usado)
+Scikit-learn / TensorFlow / PyTorch (ajuste conforme seu stack)
 
-Pandas e NumPy
+Pandas & NumPy
 
-Ferramentas de visualização e avaliação de métricas
+Matplotlib / Seaborn
 
-Aplicações
+Jupyter Notebook
 
-Monitoramento de segurança em redes corporativas
+🔐 Aplicações
 
-Sistemas de prevenção de intrusão (IDS)
+Sistemas de Detecção de Intrusão (IDS)
 
-Pesquisa acadêmica em cibersegurança e IA
+Monitoramento de Segurança de Redes
 
-Publicação Científica
+Ambientes Corporativos
 
-Os detalhes completos da metodologia e dos experimentos estão documentados no artigo científico associado a este projeto.
+Pesquisa Acadêmica em Cibersegurança
+
+📄 Publicação Científica
+
+Este projeto originou um artigo científico contendo:
+
+Metodologia detalhada
+
+Resultados experimentais
+
+Validação estatística
+
+Discussão técnica
