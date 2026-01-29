@@ -1,84 +1,31 @@
 <div align="center">
-Sistema de Detecção de Tráfego Malicioso
-Projeto em Machine Learning — Cibersegurança e Inteligência Artificial
 
-Desenvolvido com foco em robustez, adaptação contínua e segurança de redes
+# Projeto de pesquisa: Detecção adaptativa de tráfego malicioso em redes por meio de aprendizado contínuo com treinamento adversarial
+
 
 </div>
-Sobre o Projeto
 
-Este projeto implementa um sistema inteligente para detecção automática de tráfego malicioso em redes, utilizando técnicas avançadas de Machine Learning. A solução foi projetada para atuar em ambientes dinâmicos, aplicando aprendizado contínuo e treinamento adversarial para aumentar a capacidade de generalização e resistência contra novos padrões de ataque.
+---
 
-O trabalho resultou na produção de um artigo científico, consolidando os experimentos, validações e análises de desempenho do modelo.
+## Sobre o projeto
 
-Principais Funcionalidades
+Este projeto apresenta um **sistema inteligente para detecção de tráfego malicioso em redes**, desenvolvido com técnicas avançadas de Machine Learning. O modelo foi projetado incorpora aprendizado contínuo e treinamento adversarial para aumentar sua capacidade de adaptação e robustez frente a novos padrões de ataque.
 
-Detecção automatizada de tráfego malicioso
+---
 
-Aprendizado contínuo para adaptação a novas ameaças
+## Tecnologias utilizadas
 
-Treinamento adversarial para maior robustez contra ataques evasivos
+- **Python**  
+- **Scikit-learn**  
+- **TensorFlow**  
+- **PyTorch**
+- **Pandas**
+- **NumPy**
 
-Pipeline modular e escalável
+---
 
-Avaliação com métricas de desempenho
+## Objetivos
 
-Metodologia do Sistema
+- Pesquisa acadêmica em **cibersegurança** e **ML** 
 
-O pipeline do sistema segue as seguintes etapas:
-
-Pré-processamento e normalização dos dados
-
-Extração de características do tráfego de rede
-
-Treinamento incremental do modelo
-
-Geração de amostras adversariais
-
-Validação e análise de desempenho
-
-Resultados Experimentais
-
-Os experimentos demonstraram:
-
-Melhoria na taxa de detecção
-
-Maior capacidade de generalização em padrões desconhecidos
-
-Aumento da estabilidade do modelo frente a tentativas de evasão
-
-Os detalhes completos estão documentados no artigo científico associado ao projeto.
-
-Tecnologias Utilizadas
-
-Python
-
-Scikit-learn / TensorFlow / PyTorch (ajuste conforme seu stack)
-
-Pandas e NumPy
-
-Matplotlib / Seaborn
-
-Jupyter Notebook
-
-Aplicações
-
-Sistemas de Detecção de Intrusão (IDS)
-
-Monitoramento de Segurança em Redes Corporativas
-
-Plataformas de Cibersegurança
-
-Pesquisa Acadêmica em IA e Segurança da Informação
-
-Publicação Científica
-
-Este projeto originou um artigo científico contendo:
-
-Metodologia detalhada
-
-Avaliação experimental
-
-Validação estatística
-
-Discussão técnica
+---
