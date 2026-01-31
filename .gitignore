@@ -1,5 +1,6 @@
 # Ignorar datasets grandes
 raw_data/
+artifacts/
 
 # Cache e temporários do Python
 __pycache__/
